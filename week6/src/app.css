@@ -1,0 +1,47 @@
+:root {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+:root {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column; /*위아래 정렬*/
+  align-items: center; /*수평 정렬*/
+  justify-content: center; /*수직 정렬*/
+  height: 100vh; /*전체화면 높이 */
+}
+
+.container {
+  display: flex;
+  flex-direction: column; /*위아래 정렬*/
+  align-items: center; /*수평 정렬*/
+  justify-content: center; /*수직 정렬*/
+  height: 100vh; /*전체화면 높이 */
+}
